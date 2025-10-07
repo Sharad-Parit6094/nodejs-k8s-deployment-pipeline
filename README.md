@@ -1,4 +1,4 @@
-# nodejs-k8s-deployment-pipeline
+# Node.js Kubernetes Deployment Pipeline (Jenkins CI/CD)
 
 End-to-end DevOps project demonstrating a complete CI/CD pipeline for a Dockerized Node.js application deployed on Kubernetes with monitoring, autoscaling, image scanning, and secret management.
 
